@@ -1,1 +1,3 @@
 # SMB-Remastered
+
+***Not Redistributable***
